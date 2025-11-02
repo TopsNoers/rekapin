@@ -37,3 +37,6 @@ next-env.d.ts
 
 # convex
 .convex/
+
+# docker
+docker-compose.override.yml
